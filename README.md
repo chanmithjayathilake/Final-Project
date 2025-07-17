@@ -1,5 +1,5 @@
 # Final-Project
-Final project of the Diploma Level
+Final Project - Diploma in Network Engineering
 
 # Rebuild the Network Infrastructure of Visual Architect Company
 
