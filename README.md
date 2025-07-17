@@ -1,7 +1,7 @@
 # Final-Project
 Final project of the Diploma Level
 
-# Visual Architect Network Infrastructure Rebuild
+# Rebuild the Network Infrastructure of Visual Architect Company
 
 ###  Objective of this Project
 This project focuses on redesigning and rebuilding the network infrastructure of **Visual Architect and Web Development PVT LTD**, a company that rapidly scaled to 600+ employees across three floors. The goal was to modernize the company’s network environment to be secure, scalable, high-performing, and reliable — solving present issues and preparing for future growth.
